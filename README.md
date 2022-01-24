@@ -11,5 +11,7 @@ Install the following before launching application
 * npm i uuid
 # Heroku link
 https://infinite-escarpment-69135.herokuapp.com/
+# website 
+https://alfonsof4.github.io/note-taker/
 # Contribution
 Alfonso Fernandez
