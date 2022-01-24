@@ -18,6 +18,11 @@
   },
   "homepage": "https://github.com/alfonsof4/note-taker#readme",
   "dependencies": {
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.0",
+    "jest": "^27.4.7",
+    "regex": "^0.1.1",
+    "uuid": "^8.3.2"
   }
 }
