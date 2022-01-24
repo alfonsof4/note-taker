@@ -13,9 +13,10 @@ Install the following before launching application
 https://infinite-escarpment-69135.herokuapp.com/
 # website 
 https://alfonsof4.github.io/note-taker/
-<img width="1087" a<img width="1088" alt="note taker screenshot 2" src="https://user-images.githubusercontent.com/91750315/150715833-73b1fbdf-c08c-45f3-8a51-cc923e1cded6.PNG">
-lt="note taker screenshot" src="https://user-images.githubusercontent.com/91750315/150715831-7fa25374-02f4-4423-91ea-124a87187039.PNG">
 
+<img width="1087" alt="note taker screenshot" src="https://user-images.githubusercontent.com/91750315/150715871-46df66d1-c274-408c-bdfa-479e4daf4804.PNG">
+
+<img width="1088" alt="note taker screenshot 2" src="https://user-images.githubusercontent.com/91750315/150715894-e998f994-2fbf-460d-88b5-93dcf7c81c61.PNG">
 
 
 # Contribution
